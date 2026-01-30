@@ -29,4 +29,7 @@ While working on this project, I gained practical experience in front-end web de
 
 Overall, the E-Learning Platform UI project was a valuable learning experience. It helped me apply my theoretical knowledge in a practical way and improved my skills in HTML, CSS, and JavaScript. This project gave me confidence in designing structured and interactive web interfaces and is an important part of my learning journey.
 
+*OUTPUT*
+<img width="1854" height="915" alt="Image" src="https://github.com/user-attachments/assets/d2e94504-157f-4486-be5d-b2d9b9525c1d" />
+
 
