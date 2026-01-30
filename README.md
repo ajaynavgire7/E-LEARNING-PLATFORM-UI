@@ -32,4 +32,6 @@ Overall, the E-Learning Platform UI project was a valuable learning experience. 
 *OUTPUT*
 <img width="1854" height="915" alt="Image" src="https://github.com/user-attachments/assets/d2e94504-157f-4486-be5d-b2d9b9525c1d" />
 
+<img width="1844" height="917" alt="Image" src="https://github.com/user-attachments/assets/978b7b30-eb4b-4d85-bbca-f4220b8c12a0" />
+
 
